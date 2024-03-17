@@ -8,3 +8,4 @@ end
 
 # Uncomment to update fish_variables
 #set -U fish_function_path $HOME/.config/fish/functions/colors $fish_function_path
+#set -U fish_function_path $HOME/.config/fish/functions/aliases $fish_function_path

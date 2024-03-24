@@ -9,6 +9,7 @@ end
 
 #set -U fish_function_path $HOME/.config/fish/functions/colors $fish_function_path
 #set -U fish_function_path $HOME/.config/fish/functions/aliases $fish_function_path
+#set -U fish_function_path $HOME/.config/fish/functions/utils $fish_function_path
 
 # Colorscheme: ayu Dark
 # set -U fish_color_normal B3B1AD
@@ -50,3 +51,5 @@ end
 # set -U fish_color_keyword
 
 # set -U fish_greeting
+
+eval "$(fnm env)"

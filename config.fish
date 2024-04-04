@@ -12,6 +12,8 @@ end
 #set -U fish_function_path $HOME/.config/fish/functions/utils $fish_function_path
 #set -U fish_function_path $HOME/.config/fish/functions/git $fish_function_path
 
+set -U EDITOR nvim
+
 # Colorscheme: ayu Dark
 # set -U fish_color_normal B3B1AD
 # set -U fish_color_command 39BAE6

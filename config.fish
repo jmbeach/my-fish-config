@@ -11,6 +11,7 @@ set -gx fish_function_path $HOME/.config/fish/functions/colors $fish_function_pa
 set -gx fish_function_path $HOME/.config/fish/functions/aliases $fish_function_path
 set -gx fish_function_path $HOME/.config/fish/functions/utils $fish_function_path
 set -gx fish_function_path $HOME/.config/fish/functions/git $fish_function_path
+set -gx fish_function_path $HOME/.config/fish/functions/layout $fish_function_path
 
 set -U EDITOR nvim
 
